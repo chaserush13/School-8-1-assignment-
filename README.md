@@ -1,2 +1,1 @@
-# School-8-1-assignment-
-cs 210
+For my project i had to make a grocery list of sorts and this took alot more problem solving than one may think as alone i spent hours trying to make the code for the location of the input files only to find out its a computer issue instead of user error but this was very good information to learn that i will take with me to future projects and jobs!
